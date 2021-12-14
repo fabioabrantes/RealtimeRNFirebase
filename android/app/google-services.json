@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494540360627",
+    "project_id": "projetorealtimeatual",
+    "storage_bucket": "projetorealtimeatual.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494540360627:android:b29cb28a0eea11da7759c6",
+        "android_client_info": {
+          "package_name": "com.rnrealtime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494540360627-bldn6obg613devae45bo4f7bqmglmmc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqyuZhMZgGThw7p4aDE1ok_sgeEFPWjb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494540360627-bldn6obg613devae45bo4f7bqmglmmc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
